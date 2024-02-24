@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestSignUpWrongTel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53043c32-c5b8-4d98-b329-0fe0032f64ce</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kem Chng Nng</name>
+   <tag></tag>
+   <elementGuidId>676e9d8a-a973-44a1-b7de-9e7cb1b9e171</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.block_demo_search.width_common > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='search_mini_form']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9244a434-e924-4e29-85cc-01a8ef2478c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hasaki.vn/danh-muc/chong-nang-da-mat-c11.html?utm_medium=seo&amp;utm_source=destop_search&amp;utm_campaign=kemchongnang_push_29032022</value>
+      <webElementGuid>945a65dc-f267-4407-8f7d-b23cde878486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kem Chống Nắng</value>
+      <webElementGuid>58b50009-d2ec-4f3f-91e4-8b8003dd7fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_mini_form&quot;)/div[@class=&quot;block_demo_search width_common&quot;]/a[1]</value>
+      <webElementGuid>4b406b02-4abb-4f4f-844c-2715a8804a36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search_mini_form']/div/a</value>
+      <webElementGuid>86178f3a-d887-4bb2-8bd3-8c6eb4a79b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kem Chống Nắng')]</value>
+      <webElementGuid>6bf75a81-7626-4295-9c8a-39e2d6dcf485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hasaki.vn/danh-muc/chong-nang-da-mat-c11.html?utm_medium=seo&amp;utm_source=destop_search&amp;utm_campaign=kemchongnang_push_29032022')]</value>
+      <webElementGuid>e400fae7-9aba-46b6-bd24-21b21f73f339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/form/div/a</value>
+      <webElementGuid>e8a82788-f981-43aa-8a2f-67499daf2044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hasaki.vn/danh-muc/chong-nang-da-mat-c11.html?utm_medium=seo&amp;utm_source=destop_search&amp;utm_campaign=kemchongnang_push_29032022' and (text() = 'Kem Chống Nắng' or . = 'Kem Chống Nắng')]</value>
+      <webElementGuid>e0bb2e8d-c7bc-4f7b-b46a-373fc2ca549a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

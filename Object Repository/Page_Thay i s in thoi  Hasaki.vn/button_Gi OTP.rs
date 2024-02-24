@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gi OTP</name>
+   <tag></tag>
+   <elementGuidId>23e44adf-8e31-4aff-a10a-da07c9663475</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn_site_3.width_common</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-account']/div[2]/div/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3372d0fb-f429-4ab4-abfc-1fe027930609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn_site_3 width_common</value>
+      <webElementGuid>1a1b7b29-58ce-4c39-8ab0-980b2d9bc025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Gửi OTP </value>
+      <webElementGuid>05e35b7e-951a-4266-845a-0bd6817e5d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-account&quot;)/div[@class=&quot;content_box_profile_page&quot;]/div[@class=&quot;relative width_common block_input_account&quot;]/div[@class=&quot;form-group row space_bottom_20&quot;]/div[@class=&quot;col-lg-5&quot;]/button[@class=&quot;btn btn_site_3 width_common&quot;]</value>
+      <webElementGuid>7dc39056-7354-435f-9c2c-648d009eb66a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-account']/div[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>103944b3-9266-48c4-8b49-364f9e0fe8fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>82c9c149-a81a-4816-a487-9da1ddad4f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Gửi OTP ' or . = ' Gửi OTP ')]</value>
+      <webElementGuid>77d96b99-e7a5-4589-b62e-a3adaa71099e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

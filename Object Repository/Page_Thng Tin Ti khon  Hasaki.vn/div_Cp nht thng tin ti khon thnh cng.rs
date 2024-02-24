@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cp nht thng tin ti khon thnh cng</name>
+   <tag></tag>
+   <elementGuidId>be5d0a8b-bc14-4178-af77-7d7cd2608d7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-success.flashSession</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='input_info_account']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85977c17-1657-4647-825c-00ca21230c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-success flashSession</value>
+      <webElementGuid>2c6ffd57-9d75-435f-9478-85ea9bf30aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cập nhật thông tin tài khoản thành công.</value>
+      <webElementGuid>6af368d6-9e5f-452e-a64f-7f73f8bac644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input_info_account&quot;)/div[@class=&quot;alert alert-success flashSession&quot;]</value>
+      <webElementGuid>9a488997-fb16-4286-a7ff-597fbe00dd73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='input_info_account']/div</value>
+      <webElementGuid>71a00503-4383-4f02-81dd-217f7b478770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>b3563256-d39d-47d8-97f5-216842b43813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cập nhật thông tin tài khoản thành công.' or . = 'Cập nhật thông tin tài khoản thành công.')]</value>
+      <webElementGuid>7d104bbb-ce11-4cd2-b1f2-dae6225728ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

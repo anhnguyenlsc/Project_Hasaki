@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuiteForLogin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6440692d-33a6-437c-9aec-68c33f3feb11</testSuiteGuid>
+   <testCaseLink>
+      <guid>e79f274a-3f64-4c3d-9cab-4ef105d46251</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login_/Test_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>70ac7566-cb8f-47a6-aeef-bbfeb5dc2060</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataLogin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>227b0540-3722-4fc7-ae70-935ada771ff2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2e40010d-3087-4310-aaac-6ea86fa3dc1f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a21d4cc8-b3ec-4e2e-aeee-e4b0285ce588</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login_/TestLoginWithFacebook</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5c80c3c0-406d-476b-b6b7-1600d5de3dd9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataLoginForFacebook</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5c80c3c0-406d-476b-b6b7-1600d5de3dd9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>e581640b-bcfe-4325-896f-e605c6a1fd3d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5c80c3c0-406d-476b-b6b7-1600d5de3dd9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>7aae815e-8fa0-4149-b0b2-3e2ad6398ef5</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fe11231d-17f0-4388-906f-5e055ed7f8df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ChangePass/TestChangePassword</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4e85b9f1-d743-4e30-82bf-f635be0fc435</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataChangePass</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4e85b9f1-d743-4e30-82bf-f635be0fc435</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>fbc7ad5f-4a10-4ce7-ace3-bc63bf5fc9db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4e85b9f1-d743-4e30-82bf-f635be0fc435</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password_New</value>
+         <variableId>4a64aaf4-115e-413c-99b7-a5c767695228</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4e85b9f1-d743-4e30-82bf-f635be0fc435</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password_Confirm</value>
+         <variableId>ac66a8cd-0dfd-4212-8f9a-295d8b207983</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>32e7fa74-80bd-483c-a252-8fbf672969ee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UpdateInfo/TestUpdate_Phone</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ec4298a4-1f16-4274-9851-8795ffdabbc7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataPhoneNumber</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ec4298a4-1f16-4274-9851-8795ffdabbc7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Phone_Number</value>
+         <variableId>af4fbaf0-655f-4011-8beb-a2786b6c4438</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

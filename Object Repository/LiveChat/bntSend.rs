@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bntSend</name>
+   <tag></tag>
+   <elementGuidId>33386eba-ce69-4456-a799-319d3f0a1426</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='_wrap_148xt_1']//*[name()='svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

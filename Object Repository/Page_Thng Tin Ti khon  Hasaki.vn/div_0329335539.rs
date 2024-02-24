@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0329335539</name>
+   <tag></tag>
+   <elementGuidId>f634b7e4-8a7d-49ce-bf13-2854d39b227b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item_subinfo_account.width_common.space_bottom_20.relative > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block_edit_sub_info_account']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bfe7ba68-24e6-4087-ad5d-338434da3933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0329335539</value>
+      <webElementGuid>d8c1c3d9-db6e-42d1-90e4-d7c68dc2b53c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_edit_sub_info_account&quot;)/div[@class=&quot;item_subinfo_account width_common space_bottom_20 relative&quot;]/div[2]</value>
+      <webElementGuid>e495ae36-0f8f-4c0c-a20f-c1287726220e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_edit_sub_info_account']/div[2]/div[2]</value>
+      <webElementGuid>9933cc8e-7e9a-43ff-ab15-daa2d75dd4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>40ee6c3e-8bd2-474a-a41e-b0bb7ffc292a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0329335539' or . = '0329335539')]</value>
+      <webElementGuid>d28604cc-b996-49e7-b204-ba59d50882b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

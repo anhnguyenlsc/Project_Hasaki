@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng k ngay</name>
+   <tag></tag>
+   <elementGuidId>47378672-7545-4f2c-a18b-544f85ccace2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.txt_color_1.text-uppercase.popup-register</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5b121ef8-128a-4e98-9c86-4e18600a996c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>937024b2-9355-4eb6-b71f-6c2108ddaa2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt_color_1 text-uppercase popup-register</value>
+      <webElementGuid>5f68cd69-bb53-4b5b-b917-6cff0a3da2e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#popup-register</value>
+      <webElementGuid>1a370be4-feb8-4da8-b019-739d7eefabe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng ký ngay</value>
+      <webElementGuid>911fd099-8882-49cb-8eb4-8658f1ae9ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v3_inf_right_header&quot;]/div[@class=&quot;item_header item_login&quot;]/div[@class=&quot;sub_login&quot;]/div[@class=&quot;main_content_sub_login&quot;]/div[@class=&quot;block_more_login&quot;]/a[@class=&quot;txt_color_1 text-uppercase popup-register&quot;]</value>
+      <webElementGuid>73203b8e-d335-4ccf-a6c9-9e7b558236a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div[2]/a[2]</value>
+      <webElementGuid>8723995d-87dc-4468-bb3b-04a9ba7ebe75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng ký ngay')]</value>
+      <webElementGuid>54976ce1-db7f-4915-b139-50d56db8064a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#popup-register')])[2]</value>
+      <webElementGuid>63ac1700-abcf-4c46-a034-f486ee7bd1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/a[2]</value>
+      <webElementGuid>8e88ee91-4fef-4c24-aae7-0fe6a927d999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#popup-register' and (text() = 'Đăng ký ngay' or . = 'Đăng ký ngay')]</value>
+      <webElementGuid>4754e734-f563-4f95-a5c6-a14790dd9dce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

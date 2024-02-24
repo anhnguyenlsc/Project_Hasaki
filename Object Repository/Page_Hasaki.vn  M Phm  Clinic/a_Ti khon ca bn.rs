@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ti khon ca bn</name>
+   <tag></tag>
+   <elementGuidId>43f8489a-a3e6-4055-8a97-d0f72f99b772</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item_da_login > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fa2d97c7-17bf-45b2-9023-0ec4248d6403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hasaki.vn/customer/account</value>
+      <webElementGuid>138ca2dc-94a0-4739-b035-20e48d6893e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>255d541c-c8aa-49d2-9078-4f9713f6c296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tài khoản của bạn </value>
+      <webElementGuid>3dc6600d-3eb4-48d3-9635-d5a3e23a1077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v3_inf_right_header&quot;]/div[@class=&quot;item_header item_login user_login&quot;]/div[@class=&quot;sub_login sub_dalogin&quot;]/div[@class=&quot;main_content_sub_login&quot;]/div[@class=&quot;item_da_login&quot;]/a[1]</value>
+      <webElementGuid>b4b38060-5aa7-4b44-9232-2f8ce32d8474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div/a</value>
+      <webElementGuid>af124224-c7c5-4d09-a86c-d0e038282bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tài khoản của bạn')]</value>
+      <webElementGuid>f41303c8-c853-405f-a3a0-c55d83d96fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hasaki.vn/customer/account')]</value>
+      <webElementGuid>afb4da28-9212-4b39-89e6-5dfca38f5033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/div/a</value>
+      <webElementGuid>0047b714-e76c-401c-8584-527c9e90292b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hasaki.vn/customer/account' and (text() = ' Tài khoản của bạn ' or . = ' Tài khoản của bạn ')]</value>
+      <webElementGuid>5d1f4526-50ba-4355-b07c-65afb3d76866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

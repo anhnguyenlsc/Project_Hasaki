@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_M xc thc ht hn hoc khng ng</name>
+   <tag></tag>
+   <elementGuidId>1f69a2f5-ba4f-405e-b291-961a209a7a8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.showRegisterMessage.text-danger.alert.alert-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-head-register']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4e6d767-4e8b-41ef-b300-d01bd6441bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>showRegisterMessage text-danger alert alert-danger</value>
+      <webElementGuid>3de81cdd-389c-4db7-9ef9-a749f919adb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mã xác thực hết hạn hoặc không đúng.</value>
+      <webElementGuid>db710dd5-83cd-43aa-889b-e9815c242998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-head-register&quot;)/div[@class=&quot;block_more_login&quot;]/div[@class=&quot;showRegisterMessage text-danger alert alert-danger&quot;]</value>
+      <webElementGuid>0a38ccba-09b1-4c50-bbb2-cfe5f5773c81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-head-register']/div/div[2]</value>
+      <webElementGuid>6d1b20d9-f721-4831-a9cb-a288d08fe329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>b5aa9b06-167f-48a8-b587-272695c86503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mã xác thực hết hạn hoặc không đúng.' or . = 'Mã xác thực hết hạn hoặc không đúng.')]</value>
+      <webElementGuid>4eafebc0-4d98-46e1-99e5-43b7071964b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

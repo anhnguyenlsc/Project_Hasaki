@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email  ng k, vui lng ng k bng email khc</name>
+   <tag></tag>
+   <elementGuidId>462d5a26-03fd-49bf-8f3a-a9a72eeebb5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.showRegisterMessage.text-danger.alert.alert-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-head-register']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>396150ad-511e-42c1-820f-44ccd536eea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>showRegisterMessage text-danger alert alert-danger</value>
+      <webElementGuid>855c32cb-f922-41f6-956e-a516e433eb7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email đã đăng ký, vui lòng đăng ký bằng email khác.</value>
+      <webElementGuid>5d9e41c4-0a1f-460f-8499-bfe02ba34057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-head-register&quot;)/div[@class=&quot;block_more_login&quot;]/div[@class=&quot;showRegisterMessage text-danger alert alert-danger&quot;]</value>
+      <webElementGuid>abfe6600-5d2a-41cf-9298-243f26adf810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-head-register']/div/div[2]</value>
+      <webElementGuid>493e182c-ffcb-4733-8d29-205f93d99896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>60158c4f-e833-48b2-a0fb-cda20b0ddff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email đã đăng ký, vui lòng đăng ký bằng email khác.' or . = 'Email đã đăng ký, vui lòng đăng ký bằng email khác.')]</value>
+      <webElementGuid>1dc31df7-fa15-4c84-be1a-bf879fbcbb64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

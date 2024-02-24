@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ty Trang</name>
+   <tag></tag>
+   <elementGuidId>29be4419-adc4-4254-b888-82021ff2f325</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='search_mini_form']/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18527173-acf4-45cf-b13e-ef5a2f89533e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hasaki.vn/danh-muc/tay-trang-c37.html?utm_medium=seo&amp;utm_source=destop_search&amp;utm_campaign=taytrang_push_29032022</value>
+      <webElementGuid>830805ca-0e44-46cc-a99a-6517ad688dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tẩy Trang</value>
+      <webElementGuid>55625d9f-5c0c-4999-aeb7-f0c50bef063c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_mini_form&quot;)/div[@class=&quot;block_demo_search width_common&quot;]/a[2]</value>
+      <webElementGuid>193bdc8f-2c1b-4031-a12a-ed35f757db8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search_mini_form']/div/a[2]</value>
+      <webElementGuid>2a05a630-8216-4164-b2c5-b4788d222233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tẩy Trang')]</value>
+      <webElementGuid>e82ef3a8-7d9b-4275-b4b1-356150086350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hasaki.vn/danh-muc/tay-trang-c37.html?utm_medium=seo&amp;utm_source=destop_search&amp;utm_campaign=taytrang_push_29032022')]</value>
+      <webElementGuid>5bdd6ba8-30b5-4d0e-8515-181fd7a1d39d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>3f4263c8-e481-41b7-9c73-0be7e075186a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hasaki.vn/danh-muc/tay-trang-c37.html?utm_medium=seo&amp;utm_source=destop_search&amp;utm_campaign=taytrang_push_29032022' and (text() = 'Tẩy Trang' or . = 'Tẩy Trang')]</value>
+      <webElementGuid>975b49d8-da27-48c1-8068-3a69b0e1d780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

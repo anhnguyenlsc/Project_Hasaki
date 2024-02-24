@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hoc ng nhp vi Hasaki.vn</name>
+   <tag></tag>
+   <elementGuidId>64fa57d4-fac8-4ede-8d92-4f2e7b1e5ca7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.space_bottom_10.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef736675-86b3-4cf1-8b4a-9679cb94550e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>space_bottom_10 text-center</value>
+      <webElementGuid>158d9a45-fd70-4a2a-a3d5-66fd904b8ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoặc đăng nhập với Hasaki.vn</value>
+      <webElementGuid>dc5e5363-25f3-425f-978c-4f59311cbb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v3_inf_right_header&quot;]/div[@class=&quot;item_header item_login&quot;]/div[@class=&quot;sub_login&quot;]/div[@class=&quot;main_content_sub_login&quot;]/div[@class=&quot;block_more_login&quot;]/div[@class=&quot;space_bottom_10 text-center&quot;]</value>
+      <webElementGuid>9d3f6df5-abd6-45d2-a4bc-33fb0f9fc790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div[2]/div</value>
+      <webElementGuid>ddcc412d-86fe-472b-8a17-6ab8c839e9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>96f8ccd5-2078-44cb-9467-48bcbdebe126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hoặc đăng nhập với Hasaki.vn' or . = 'Hoặc đăng nhập với Hasaki.vn')]</value>
+      <webElementGuid>c336e60e-f9a2-49ab-a953-cf6150c92ddd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

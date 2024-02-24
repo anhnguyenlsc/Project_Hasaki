@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestUpdate_Phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>336b0723-6127-4a1c-8dcf-ced046b40d85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af4fbaf0-655f-4011-8beb-a2786b6c4438</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af4fbaf0-655f-4011-8beb-a2786b6c4438</id>
+      <masked>false</masked>
+      <name>Phone_Number</name>
+   </variable>
+</TestCaseEntity>

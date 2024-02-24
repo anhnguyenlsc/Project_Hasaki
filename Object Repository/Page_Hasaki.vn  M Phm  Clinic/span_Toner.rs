@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Toner</name>
+   <tag></tag>
+   <elementGuidId>34420dad-ad91-439a-95a4-e2b9d0880ff9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='msg-4a7928b1-24a9-4f01-a0d1-4c59d795f8fc']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#msg-4a7928b1-24a9-4f01-a0d1-4c59d795f8fc > div._mix_1oble_119 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa3dd4e6-2174-424b-a7aa-a86cc1f256a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toner</value>
+      <webElementGuid>66ce6903-aaf3-4a40-b89c-f433c3ee5e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;msg-4a7928b1-24a9-4f01-a0d1-4c59d795f8fc&quot;)/div[@class=&quot;_mix_1oble_119&quot;]/span[1]</value>
+      <webElementGuid>90142190-4ee5-494d-b1e5-d72a8254ac01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='msg-4a7928b1-24a9-4f01-a0d1-4c59d795f8fc']/div/span</value>
+      <webElementGuid>d280a8fc-78fa-4f0b-8772-e45b4f951c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div[2]/div/span</value>
+      <webElementGuid>c2286167-8aa7-493b-861c-3743349fcb9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Toner' or . = 'Toner')]</value>
+      <webElementGuid>b3e6b2e0-8f15-4302-aabb-001a868f820e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

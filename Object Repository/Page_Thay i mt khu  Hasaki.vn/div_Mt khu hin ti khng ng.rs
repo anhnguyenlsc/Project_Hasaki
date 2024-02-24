@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mt khu hin ti khng ng</name>
+   <tag></tag>
+   <elementGuidId>b2c09228-fe06-4ffa-a4b5-ebf9a6147047</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger.flashSession</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-account']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e5c12f5-9c6d-4da5-a3e0-40c53bdfd762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger flashSession</value>
+      <webElementGuid>bfd0ea32-a1fe-40aa-a580-35a710c4ffdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mật khẩu hiện tại không đúng</value>
+      <webElementGuid>7f2680cf-83d3-4eec-86bc-b3993c2b05ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-account&quot;)/div[@class=&quot;alert alert-danger flashSession&quot;]</value>
+      <webElementGuid>b1450e49-8e6f-4ec4-bcb8-64740ca7df01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-account']/div[2]</value>
+      <webElementGuid>b3d8ba2a-09c1-4152-8f8f-ea3c2a06c43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/form/div[2]</value>
+      <webElementGuid>47b406f7-9d49-4fed-8a6f-09db252922a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mật khẩu hiện tại không đúng' or . = 'Mật khẩu hiện tại không đúng')]</value>
+      <webElementGuid>996b99b1-3478-4be0-800e-34e2f72f7045</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

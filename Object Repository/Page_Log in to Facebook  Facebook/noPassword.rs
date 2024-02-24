@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>noPassword</name>
+   <tag></tag>
+   <elementGuidId>b8157dc4-af74-43f7-9e00-404d4dc6c328</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._4rbf._53ij</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='globalContainer']/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80afe40f-fb8f-4b98-b432-4bb9ee02d5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>b0003301-5590-46c0-9b37-ddab913f8fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_4rbf _53ij</value>
+      <webElementGuid>5b517ca8-e9a3-4ded-af2a-6b4088323926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The password that you've entered is incorrect. Forgotten password?</value>
+      <webElementGuid>ac3d54e6-7e86-4344-8fe5-101be1649df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;globalContainer&quot;)/div[@class=&quot;uiContextualLayerPositioner _572t uiLayer&quot;]/div[@class=&quot;uiContextualLayer uiContextualLayerRight&quot;]/div[@class=&quot;_5v-0 _53in&quot;]/div[@class=&quot;_4rbf _53ij&quot;]</value>
+      <webElementGuid>d82c3b4d-effa-4591-843b-a82415059b3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='globalContainer']/div[3]/div/div/div</value>
+      <webElementGuid>05d49b44-f3d4-4ad3-a8ea-1fa30c6b1e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>9cd032e8-4902-4712-9a80-9dc78ddbff6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;The password that you&quot; , &quot;'&quot; , &quot;ve entered is incorrect. Forgotten password?&quot;) or . = concat(&quot;The password that you&quot; , &quot;'&quot; , &quot;ve entered is incorrect. Forgotten password?&quot;))]</value>
+      <webElementGuid>75d9317e-3906-422f-9dee-786bc57e6239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

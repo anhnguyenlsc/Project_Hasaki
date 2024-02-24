@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cp nht</name>
+   <tag></tag>
+   <elementGuidId>eb19955c-c284-4175-ac99-dc3c138ca8b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.txt_15.btn.btn_update_status_info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='https://hasaki.vn/customer/password/change']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>529de29c-20da-497a-9dd3-3b3a2e26d09c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hasaki.vn/customer/phone-number/change</value>
+      <webElementGuid>60faf40a-302d-45ef-82cd-4a1e08266ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt_15 btn btn_update_status_info</value>
+      <webElementGuid>e6adf285-48b1-41a9-98ad-c8bd2bc0175d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cập nhật</value>
+      <webElementGuid>7c75f95a-6587-4150-be2b-c59b1af17ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_edit_sub_info_account&quot;)/div[@class=&quot;item_subinfo_account width_common space_bottom_20 relative&quot;]/a[@class=&quot;txt_15 btn btn_update_status_info&quot;]</value>
+      <webElementGuid>067ae51d-37fe-4ef1-a140-955968be385d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_edit_sub_info_account']/div[2]/a</value>
+      <webElementGuid>77537334-b7e4-4a06-8120-6610b3039354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cập nhật')]</value>
+      <webElementGuid>6c3bdeec-948b-4285-90ce-927f25e18d57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hasaki.vn/customer/phone-number/change')]</value>
+      <webElementGuid>40ab588c-fa5a-4f6e-bf8c-7c5db2f19fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/a</value>
+      <webElementGuid>f7579120-d910-4263-8b62-8cec0c131207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hasaki.vn/customer/phone-number/change' and (text() = 'Cập nhật' or . = 'Cập nhật')]</value>
+      <webElementGuid>450e1bc7-a063-4cdb-9025-f16d8d4243c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_edit_sub_info_account']/div[5]/a</value>
+      <webElementGuid>afe44e1a-7a47-481a-ac9b-59952fd58c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Cập nhật')])[2]</value>
+      <webElementGuid>9bf99577-373d-4078-8fa1-67a8f7a28ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hasaki.vn/customer/password/change')]</value>
+      <webElementGuid>e954f026-f183-4159-b590-58bf88252525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]/a</value>
+      <webElementGuid>d4d4ea5f-8fea-4df8-ace7-237381dac26f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hasaki.vn/customer/password/change' and (text() = 'Cập nhật' or . = 'Cập nhật')]</value>
+      <webElementGuid>26fb41df-2279-4723-a921-c230454e9751</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_banner</name>
+   <tag></tag>
+   <elementGuidId>ed975968-0927-4c13-b183-253b2dffcd99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.lazy.loaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>#slider_item_big_top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
